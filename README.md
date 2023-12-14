@@ -5,7 +5,7 @@
 
 Please find attached Assignment 2.
 
-The CSV to be used in problem 1 and 2 is daily_data.csv which was shared in the previous assignmemt also.
+The CSV to be used in problem 1 and 2 is daily_data.csv which was shared in the previous assignment also.
 
 Instructions:
 
